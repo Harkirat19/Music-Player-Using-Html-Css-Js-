@@ -1,6 +1,6 @@
 # SoundScape - A Simple Music Player
 
-[Give it a try!](https://music-player-using-html-css-js.vercel.app/)
+[Give it a try!](https://sound-scape-music-p-layer.vercel.app/)
 
 SoundScape is a music player website built with Html, CSS & JS that allows you to explore and listen to a curated selection of songs. It provides a clean interface where users can select songs to play, view album artwork, and enjoy the music with a custom-built audio player.
 
